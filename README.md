@@ -15,4 +15,4 @@ The columns in the given dataset are as follows:
 
 Dataset Link : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-##The price prediction model has been developed using Random Forest Regressor
+The price prediction model has been developed using Random Forest Regressor
