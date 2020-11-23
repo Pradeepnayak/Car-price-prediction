@@ -13,3 +13,6 @@ The columns in the given dataset are as follows:
 7.transmission</br>
 8.Owner</br>
 
+Dataset Link : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+
+##The price prediction model has been developed using Random Forest Regressor
